@@ -1,0 +1,26 @@
+{
+    "Japanese-English.sqlite3": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 38592393]
+    ],
+    "counter-kanji.json": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 643]
+    ],
+    "dict-code-to-text.json": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 2706]
+    ],
+    "example-words-index.json": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 1138071]
+    ],
+    "kanji-strokes.json": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 2991762]
+    ],
+    "kokuji.json": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 409]
+    ],
+    "name-tag-to-text.json": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 513]
+    ],
+    "numeric-kanji.json": [
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 476]
+    ]
+}
