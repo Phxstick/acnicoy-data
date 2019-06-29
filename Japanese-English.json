@@ -1,18 +1,22 @@
 {
     "Japanese-English.sqlite3": [
-        ["jp-en-1.0.0", "0.1.0", "0.1.0", 38592393]
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 38592393],
+        ["jp-en-1.0.1", "0.1.0", "0.1.0", 31884024, "Updated underlying data (~3 years of improvements, 29th May 2019)"]
     ],
     "counter-kanji.json": [
         ["jp-en-1.0.0", "0.1.0", "0.1.0", 643]
     ],
     "dict-code-to-text.json": [
-        ["jp-en-1.0.0", "0.1.0", "0.1.0", 2706]
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 2706],
+        ["jp-en-1.0.1", "0.1.0", "0.1.0", 3267, "Complete Japanese translations"]
     ],
     "example-words-index.json": [
-        ["jp-en-1.0.0", "0.1.0", "0.1.0", 1138071]
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 1138071],
+        ["jp-en-1.0.1", "0.1.0", "0.1.0", 1248722, "Based on new version 1.0.1 of dictionary"]
     ],
     "kanji-strokes.json": [
-        ["jp-en-1.0.0", "0.1.0", "0.1.0", 2991762]
+        ["jp-en-1.0.0", "0.1.0", "0.1.0", 2991762],
+        ["jp-en-1.0.1", "0.1.0", "0.1.0", 2991760, "Tiny fix, based on the 2016/04/26 release of kanjivg.xml"]
     ],
     "kokuji.txt": [
         ["jp-en-1.0.0", "0.1.0", "0.1.0", 409]
